@@ -1560,6 +1560,7 @@ var rules = [
             "fa.gov.tw",
             "raydium.io",
             "uniswap.org",
+            "54.255.121.85",
             "facebook.com",
             "facebook.de",
             "facebook.design",
