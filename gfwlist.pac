@@ -1558,6 +1558,7 @@ var rules = [
             "f2pool.com",
             "f8.com",
             "fa.gov.tw",
+            "raydium.io",
             "facebook.com",
             "facebook.de",
             "facebook.design",
