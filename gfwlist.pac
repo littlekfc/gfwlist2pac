@@ -1559,6 +1559,7 @@ var rules = [
             "f8.com",
             "fa.gov.tw",
             "raydium.io",
+            "uniswap.org",
             "facebook.com",
             "facebook.de",
             "facebook.design",
